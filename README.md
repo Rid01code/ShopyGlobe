@@ -1,12 +1,40 @@
-# React + Vite
+# 🛍️ ShoppyGlobe - E-commerce Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **ShoppyGlobe**, a dynamic and colorful e-commerce app built with **React**, **Redux**, and **Tailwind CSS**. This project is a final assignment designed to demonstrate full-stack React development skills, including routing, global state, API fetching, smooth UI transitions, and responsive design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+> 📦 Coming Soon – deploy with **Vercel** or **GitHub Pages** and paste the link here.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧾 Features
+
+✅ Modern UI with Tailwind CSS & React Icons  
+✅ Dynamic product listing from live API  
+✅ View detailed product info  
+✅ Add and remove products from cart  
+✅ Cart icon updates dynamically with item count  
+✅ Smooth transitions & mobile responsive layout  
+✅ 404 Not Found page  
+✅ Lazy loading with `React.lazy` and `Suspense`  
+✅ Redux Toolkit for global cart and product state  
+✅ Search functionality with instant filtering  
+
+---
+
+## 📦 Technologies Used
+
+- **React** (with functional components & hooks)
+- **Redux Toolkit**
+- **React Router DOM**
+- **Tailwind CSS**
+- **React Icons**
+- **DummyJSON API** (`https://dummyjson.com/products`)
+
+---
+
+## 📁 Folder Structure
+
